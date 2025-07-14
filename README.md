@@ -500,36 +500,6 @@ If you use this project in academic research, please cite:
 - Write comprehensive docstrings
 - Include unit tests for new features
 
-### Reporting Issues
-Please use the GitHub issue tracker to report bugs or request features.
-
-<div align="center">
-    <h2>👥 Team and Contact Information</h2>
-</div>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/👨‍💻_Lead_Developer-Available-green" alt="Lead Developer">
-    <img src="https://img.shields.io/badge/📊_Quantitative_Analyst-Available-blue" alt="Quantitative Analyst">
-    <img src="https://img.shields.io/badge/💻_Software_Engineer-Available-purple" alt="Software Engineer">
-</div>
-
-### Development Team
-- **Lead Developer**: [Your Name] - [your.email@domain.com]
-- **Quantitative Analyst**: [Team Member] - [email@domain.com]
-- **Software Engineer**: [Team Member] - [email@domain.com]
-
-### Business Inquiries
-For business partnerships, licensing, or custom implementations:
-- **Email**: business@alphaoptimizer.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Website**: [Your Website]
-
-### Support
-- **Documentation**: [Link to detailed docs]
-- **Issues**: GitHub Issues page
-- **Discussions**: GitHub Discussions
-- **Email Support**: support@alphaoptimizer.com
-
 <div align="center">
     <h2>🚀 Future Roadmap</h2>
 </div>
@@ -569,6 +539,40 @@ For business partnerships, licensing, or custom implementations:
 - Python scientific computing ecosystem
 
 ---
+
+### Reporting Issues
+Please use the GitHub issue tracker to report bugs or request features.
+
+<div align="center">
+    <h2>👤 Developer Information</h2>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/👨‍💻_Solo_Developer-Available-green" alt="Solo Developer">
+    <img src="https://img.shields.io/badge/📊_Full_Stack-Development-blue" alt="Full Stack Development">
+    <img src="https://img.shields.io/badge/💻_Open_Source-Project-purple" alt="Open Source Project">
+</div>
+
+### Developer
+- **Solo Developer**: Randika Prabashwara
+- **Email**: randikap.20@cse.mrt.ac.lk
+- **GitHub**: [github.com/randikapra](https://github.com/randikapra)
+- **LinkedIn**: [linkedin.com/in/randika-prabashwara](https://linkedin.com/in/randika-prabashwara)
+
+### Business Inquiries
+For collaboration, feature requests, or project discussions:
+- **Email**: randikap.20@cse.mrt.ac.lk
+- **LinkedIn**: [linkedin.com/in/randika-prabashwara](https://linkedin.com/in/randika-prabashwara)
+- **GitHub**: [github.com/randikapra](https://github.com/randikapra)
+
+### Support
+- **Issues**: GitHub Issues page
+- **Discussions**: GitHub Discussions
+- **Direct Contact**: randikap.20@cse.mrt.ac.lk
+
+### Project Status
+This is a solo open-source project developed and maintained by Randika Prabashwara. Contributions, suggestions, and feedback are welcome!
+
 
 <div align="center">
     <em>Transform your investment strategy with the power of advanced metaheuristic optimization. This project represents the intersection of advanced computational intelligence and practical financial application, delivering measurable value to investors and financial institutions worldwide.</em>
