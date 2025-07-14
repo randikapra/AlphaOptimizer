@@ -162,7 +162,7 @@ We've developed a comprehensive portfolio optimization system that leverages **s
 ### ⚡ Quick Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AlphaOptimizer.git
+git clone https://github.com/randikapra/AlphaOptimizer.git
 cd AlphaOptimizer
 
 # Create virtual environment
@@ -470,9 +470,9 @@ If you use this project in academic research, please cite:
 ```
 @software{AlphaOptimizer2025,
   title={Advanced Portfolio Optimization Using Metaheuristic Algorithms},
-  author={[Your Name]},
+  author={[Randika Prabashwara]},
   year={2025},
-  url={https://github.com/yourusername/AlphaOptimizer}
+  url={https://github.com/randikapra/AlphaOptimizer}
 }
 ```
 
@@ -554,24 +554,25 @@ Please use the GitHub issue tracker to report bugs or request features.
 </div>
 
 ### Developer
-- **Solo Developer**: Randika Prabashwara
+- **Solo**: Randika Prabashwara
 - **Email**: randikap.20@cse.mrt.ac.lk
 - **GitHub**: [github.com/randikapra](https://github.com/randikapra)
 - **LinkedIn**: [linkedin.com/in/randika-prabashwara](https://linkedin.com/in/randika-prabashwara)
-
-### Business Inquiries
-For collaboration, feature requests, or project discussions:
-- **Email**: randikap.20@cse.mrt.ac.lk
-- **LinkedIn**: [linkedin.com/in/randika-prabashwara](https://linkedin.com/in/randika-prabashwara)
-- **GitHub**: [github.com/randikapra](https://github.com/randikapra)
 
 ### Support
-- **Issues**: GitHub Issues page
-- **Discussions**: GitHub Discussions
+<div align="center">
+    <a href="https://github.com/randikapra/AlphaOptimizer/issues">
+        <img src="https://img.shields.io/badge/🐛_Report_Issues-GitHub-red?style=for-the-badge&logo=github" alt="Report Issues">
+    </a>
+    <a href="https://github.com/randikapra/AlphaOptimizer/discussions">
+        <img src="https://img.shields.io/badge/💬_Discussions-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Discussions">
+    </a>
+</div>
+<br>
 - **Direct Contact**: randikap.20@cse.mrt.ac.lk
 
 ### Project Status
-This is a solo open-source project developed and maintained by Randika Prabashwara. Contributions, suggestions, and feedback are welcome!
+This is a solo open-source project developed and maintained. Contributions, suggestions, and feedback are welcome!
 
 
 <div align="center">
