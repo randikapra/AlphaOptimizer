@@ -1,7 +1,7 @@
 <h1>Advanced Portfolio Optimization Using Metaheuristic Algorithms</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🏆+Python+%7C+Machine+Learning+%7C+Metaheuristic+Optimization;;🏆Finance;🏆Machine+Learning;🏆Quantitative+Analysis;🏆Investment+Management)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🏆+%7C+Python+%7C+Machine+Learning+%7C+Metaheuristic+Optimization;;🏆Finance;🏆Machine+Learning;🏆Quantitative+Analysis;🏆Investment+Management)](https://git.io/typing-svg)
 
 </div>
 🏆 Python | Finance | Machine Learning | Metaheuristic Optimization | Quantitative Analysis | Investment Management
@@ -23,7 +23,7 @@ This project revolutionizes portfolio management by implementing cutting-edge me
 </div>
 
 <h3>Repository Structure</h3>
-```
+<pre>
 AlphaOptimizer/
 ├── src/
 │   ├── algorithms/
@@ -53,7 +53,7 @@ AlphaOptimizer/
 ├── setup.py
 ├── LICENSE
 └── README.md
-```
+</pre>
 
 <h2>The Business Problem</h2>
 <p>
