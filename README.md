@@ -1,19 +1,28 @@
-# Advanced Portfolio Optimization Using Metaheuristic Algorithms
+<h1>Advanced Portfolio Optimization Using Metaheuristic Algorithms</h1>
+<div align="center">
 
-🏆 Python | Finance | Machine Learning | Quantitative Analysis | Investment Management
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🏆+Python+%7C+Machine+Learning+%7C+Metaheuristic+Optimization;;🏆Finance;🏆Machine+Learning;🏆Quantitative+Analysis;🏆Investment+Management)](https://git.io/typing-svg)
 
-## Executive Summary
+</div>
+🏆 Python | Finance | Machine Learning | Metaheuristic Optimization | Quantitative Analysis | Investment Management
 
+<h2>Executive Summary</h2>
+<p>
 This project revolutionizes portfolio management by implementing cutting-edge metaheuristic algorithms to solve complex multi-objective optimization problems in financial markets. Our solution delivers 20-40% improvement in risk-adjusted returns while maintaining robust risk management and regulatory compliance.
+</p>
 
-## Project Status and Development Stage
+<h2>Project Status and Development Stage</h2>
 
-**Current Version:** v1.0.0  
-**Development Status:** Production Ready  
-**Last Updated:** July 2025  
-**Maintenance Status:** Actively Maintained
+<div align="center">
+   <h2>
+       <img src="https://img.shields.io/badge/📦_Version-v1.0.0-blue" alt="Version">
+       <img src="https://img.shields.io/badge/🚀_Status-Production_Ready-green" alt="Status">
+       <img src="https://img.shields.io/badge/📅_Updated-July_2025-orange" alt="Last Updated">
+       <img src="https://img.shields.io/badge/🔧_Maintenance-Actively_Maintained-brightgreen" alt="Maintenance">
+   </h2>
+</div>
 
-### Repository Structure
+<h3>Repository Structure</h3>
 ```
 AlphaOptimizer/
 ├── src/
@@ -46,8 +55,8 @@ AlphaOptimizer/
 └── README.md
 ```
 
-## The Business Problem
-
+<h2>The Business Problem</h2>
+<p>
 Traditional portfolio optimization methods face critical limitations in today's dynamic financial markets:
 
 - **Static Optimization**: Classical mean-variance optimization assumes constant market conditions
@@ -58,13 +67,14 @@ Traditional portfolio optimization methods face critical limitations in today's 
 - **Transaction Costs**: Often ignored in theoretical models, leading to impractical solutions
 
 These limitations result in suboptimal portfolio performance, excessive risk exposure, and missed opportunities for institutional and individual investors.
+</p>
 
-## Our Solution: Advanced Metaheuristic Portfolio Optimization
-
+<h2>Our Solution: Advanced Metaheuristic Portfolio Optimization</h2>
+<p>
 We've developed a comprehensive portfolio optimization system that leverages state-of-the-art metaheuristic algorithms to overcome traditional limitations and deliver superior investment outcomes.
+</p>
 
-### Key Innovation Areas
-
+<h3>Key Innovation Areas</h3>
 **1. Multi-Objective Optimization Framework**
 - Simultaneously optimizes return, risk, and transaction costs
 - Generates Pareto-optimal solutions for different investor preferences
