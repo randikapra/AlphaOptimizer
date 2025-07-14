@@ -1,9 +1,8 @@
-<h1>Advanced Portfolio Optimization Using Metaheuristic Algorithms</h1>
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🏆+%7C+Python+%7C+Machine+Learning+%7C+Metaheuristic+Optimization;;🏆Finance;🏆Machine+Learning;🏆Quantitative+Analysis;🏆Investment+Management)](https://git.io/typing-svg)
-
+    <h1>Advanced Portfolio Optimization Using Metaheuristic Algorithms</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🏆+Python+%7C+Machine+Learning+%7C+Metaheuristic+Optimization;🏆+Finance+%7C+Quantitative+Analysis;🏆+Investment+Management+%7C+Portfolio+Optimization;🏆+Risk+Management+%7C+Alpha+Generation" alt="Typing SVG">
 </div>
+
 🏆 Python | Finance | Machine Learning | Metaheuristic Optimization | Quantitative Analysis | Investment Management
 
 <h2>Executive Summary</h2>
