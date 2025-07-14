@@ -339,7 +339,16 @@ results = backtest.run_backtest(optimizer, portfolio)
 - **Tax-Loss Harvesting**: Minimize tax impact while maintaining optimal allocation
 - **Personalized Portfolios**: Customize portfolios based on individual risk preferences
 
-## License and Usage
+
+<div align="center">
+    <h2>📄 License and Usage</h2>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/📜_License-MIT-green" alt="MIT License">
+    <img src="https://img.shields.io/badge/💼_Commercial_Use-Permitted-blue" alt="Commercial Use">
+    <img src="https://img.shields.io/badge/📚_Citation-Required_for_Academic-orange" alt="Citation">
+</div>
 
 ### MIT License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -358,7 +367,16 @@ If you use this project in academic research, please cite:
 }
 ```
 
-## Contributing
+<div align="center">
+    <h2>🤝 Contributing</h2>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/🍴_Fork-Repository-yellow" alt="Fork">
+    <img src="https://img.shields.io/badge/🔀_Pull_Request-Welcome-brightgreen" alt="Pull Request">
+    <img src="https://img.shields.io/badge/📋_PEP8-Code_Style-blue" alt="Code Style">
+    <img src="https://img.shields.io/badge/🧪_Tests-Required-red" alt="Tests">
+</div>
 
 ### Development Guidelines
 1. Fork the repository
@@ -376,7 +394,15 @@ If you use this project in academic research, please cite:
 ### Reporting Issues
 Please use the GitHub issue tracker to report bugs or request features.
 
-## Team and Contact Information
+<div align="center">
+    <h2>👥 Team and Contact Information</h2>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/👨‍💻_Lead_Developer-Available-green" alt="Lead Developer">
+    <img src="https://img.shields.io/badge/📊_Quantitative_Analyst-Available-blue" alt="Quantitative Analyst">
+    <img src="https://img.shields.io/badge/💻_Software_Engineer-Available-purple" alt="Software Engineer">
+</div>
 
 ### Development Team
 - **Lead Developer**: [Your Name] - [your.email@domain.com]
@@ -395,7 +421,16 @@ For business partnerships, licensing, or custom implementations:
 - **Discussions**: GitHub Discussions
 - **Email Support**: support@alphaoptimizer.com
 
-## Future Roadmap
+<div align="center">
+    <h2>🚀 Future Roadmap</h2>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/🤖_Machine_Learning-v2.0-orange" alt="Machine Learning">
+    <img src="https://img.shields.io/badge/🪙_Cryptocurrency-Planned-yellow" alt="Cryptocurrency">
+    <img src="https://img.shields.io/badge/🌍_Global_Markets-Planned-blue" alt="Global Markets">
+    <img src="https://img.shields.io/badge/⚛️_Quantum_Computing-Future-purple" alt="Quantum Computing">
+</div>
 
 ### Version 2.0 Features
 - **Machine Learning Integration**: LSTM and transformer models for return prediction
@@ -409,7 +444,15 @@ For business partnerships, licensing, or custom implementations:
 - **Options and Derivatives**: Complex instrument optimization
 - **ESG Integration**: Environmental, Social, and Governance factors
 
-## Acknowledgments
+<div align="center">
+    <h2>🙏 Acknowledgments</h2>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/📈_Harry_Markowitz-Modern_Portfolio_Theory-gold" alt="Markowitz">
+    <img src="https://img.shields.io/badge/🔬_Research_Community-Metaheuristic_Optimization-green" alt="Research">
+    <img src="https://img.shields.io/badge/🐍_Python-Scientific_Computing-blue" alt="Python">
+</div>
 
 - Modern Portfolio Theory foundations by Harry Markowitz
 - Metaheuristic optimization research community
@@ -418,4 +461,7 @@ For business partnerships, licensing, or custom implementations:
 
 ---
 
-*Transform your investment strategy with the power of advanced metaheuristic optimization. This project represents the intersection of advanced computational intelligence and practical financial application, delivering measurable value to investors and financial institutions worldwide.*
+<div align="center">
+    <em>Transform your investment strategy with the power of advanced metaheuristic optimization. This project represents the intersection of advanced computational intelligence and practical financial application, delivering measurable value to investors and financial institutions worldwide.</em>
+</div>
+
